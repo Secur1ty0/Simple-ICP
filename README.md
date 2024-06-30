@@ -9,9 +9,9 @@
 
 手动输入完图像验证码后:
 
-![](./1.png)
+![](https://github.com/Secur1ty0/Simple-ICP/1.png)
 
-![](./2.png)
+![](https://github.com/Secur1ty0/Simple-ICP/2.png)
 
 **简单说明**
 
